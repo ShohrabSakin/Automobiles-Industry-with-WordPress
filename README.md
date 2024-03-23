@@ -22,13 +22,11 @@ In this project I tried to develop the theme for automobiles industry. The Theme
 
     3. Make a folder name "WORDPRESS" in your preferable Xampp folder [C/D/E].
     
-    4. In WORDPRESS folder keep the "sakin" file. Which was used for Back end.
+    4. In WORDPRESS folder keep the "wordpress" file. 
 
-    5. In REACT folder keep the "hacker-stories" file. Which was used for Front end.
+    5. Open phpMyAdmin (http://localhost/phpmyadmin/)
 
-    6. Open phpMyAdmin (http://localhost/phpmyadmin/)
-
-    7. Create a database with name "react" 
+    6. Create a database with name "firstwp" 
 
     8. Import "react.sql" file (given inside the zip package in "Database" folder).
 
