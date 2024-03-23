@@ -48,7 +48,7 @@ In this project I tried to develop the theme for automobiles industry. The Theme
 
 - Traditional template.
 - Fully customizable "Carousel" Slider plugin.
-- JWT authentication
+- Fully responsive & flexible content.
 - Search booking by date 
 - Booking payment entries
 - Services
