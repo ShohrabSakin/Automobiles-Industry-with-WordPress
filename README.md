@@ -6,13 +6,10 @@ In this project I tried to develop the theme for automobiles industry. The Theme
 
 | App and Language        | Version                                                     |
 | :------:                | :------:                                                    |
-
 | Database                | MySQL 5.2.1                                                 |
-
 | XAMPP Version           | XAMPP 8.2.4                                                 |
 | Web Browser             | Google Chrome, Mozilla Firefox                              |
-
-
+| WordPress               | 6.4.2                                                       |
 
 
 ## Some Project Screenshots
