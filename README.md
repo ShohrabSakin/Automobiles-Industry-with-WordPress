@@ -25,7 +25,7 @@ In this project I tried to develop the theme for automobiles industry. The Theme
 
     3. Make a folder name "WORDPRESS" in your preferable Xampp folder [C/D/E].
     
-    4. In LARAVEL folder keep the "sakin" file. Which was used for Back end.
+    4. In WORDPRESS folder keep the "sakin" file. Which was used for Back end.
 
     5. In REACT folder keep the "hacker-stories" file. Which was used for Front end.
 
@@ -53,8 +53,8 @@ In this project I tried to develop the theme for automobiles industry. The Theme
 
      11. Admin Credential
 
-          Username: admin
-          Password: admin
+          Username: sakin
+          Password: wordpress
 
 ## Features
 
@@ -70,9 +70,5 @@ In this project I tried to develop the theme for automobiles industry. The Theme
 - Hotel Check-out with printed bill
 
 
-## Tech Stack
 
-**Client:** React
-
-**Server:** Node, Git, Laravel
 
