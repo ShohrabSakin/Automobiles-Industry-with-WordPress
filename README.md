@@ -44,10 +44,10 @@ In this project I tried to develop the theme for automobiles industry. The Theme
           Username: sakin
           Password: wordpress
 
-## Features
+## Theme Features
 
-- Information about Visiting places, Hotels, Packages, Flights etc.
-- Package booking
+- Traditional template.
+- Fully customizable "Carousel" Slider plugin.
 - JWT authentication
 - Search booking by date 
 - Booking payment entries
