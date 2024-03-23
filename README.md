@@ -48,14 +48,13 @@ In this project I tried to develop the theme for automobiles industry. The Theme
 
 - Traditional template.
 - Fully customizable "Carousel" Slider plugin.
+- Enhance user engagement through its ability to display images, titles, and buttons.
 - Fully responsive & flexible content.
-- Search booking by date 
-- Booking payment entries
-- Services
-- Hotel booking / Chek-in information 
-- Hotel services, rooms, floors entries
-- Hotel services payment 
-- Hotel Check-out with printed bill
+- Content management system and also supports Posts, Pages, Custom Post Type.
+- Highly customizable with a huge number of customization options.
+- Build sophisticated websites in less time.
+- The inbuilt template system, filters and actions make the customization easy.
+
 
 
 
