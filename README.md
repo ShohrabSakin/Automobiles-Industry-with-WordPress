@@ -28,7 +28,7 @@ In this project I tried to develop the theme for automobiles industry. The Theme
 
     6. Create a database with name "firstwp" 
 
-    8. Import "react.sql" file (given inside the zip package in "Database" folder).
+    8. Import "firstwp.sql" file (given inside the zip package in "Database" folder).
 
     9. Run LARAVEL :
     
@@ -38,13 +38,6 @@ In this project I tried to develop the theme for automobiles industry. The Theme
 
         - Open a browser run localhost:8000 [ Not mandatory ]
 
-    10. Run REACT :
-
-         - Open C:\ xampp \ htdocs \ REACT \ hacker-stories folder. [ Root directory ]
-
-         - Open git bash here or your Terminal > run  "npm start" [ REACT CLI ]
-
-         - Open a browser run localhost:4200 [ Mandatory ]
 
      11. Admin Credential
 
