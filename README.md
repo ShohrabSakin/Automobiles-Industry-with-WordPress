@@ -30,16 +30,16 @@ In this project I tried to develop the theme for automobiles industry. The Theme
 
     8. Import "firstwp.sql" file (given inside the zip package in "Database" folder).
 
-    9. Run LARAVEL :
+    9. Run WordPress :
     
-        - Open C:\ xampp \ htdocs \ LARAVEL \ sakin folder. [ Root directory ]
+        - Open C:\ xampp \ htdocs \ WORDPRESS \ wordpress \ wp-admin \ index.php file. 
 
-        - Open git bash here or your Terminal > run  "php artisan serve" [ Laravel CLI ]
+        - Open "index.php" file in your code editor [ VS Code ] and copy path
 
-        - Open a browser run localhost:8000 [ Not mandatory ]
+        - Open a browser run localhost [ http://localhost/WORDPRESS/wordpress/wp-login.php? ]
 
 
-     11. Admin Credential
+     10. Admin Credential
 
           Username: sakin
           Password: wordpress
