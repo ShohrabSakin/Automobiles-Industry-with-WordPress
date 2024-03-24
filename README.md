@@ -14,6 +14,19 @@ In this project I tried to develop the theme for automobiles industry. The Theme
 
 ## Some Project Screenshots
 
+![Theme looks like](https://github.com/ShohrabSakin/Automobiles-Industry-with-WordPress/assets/162773557/5d748e63-7331-4a1e-8177-965452f8ebb8)
+
+![All Product](https://github.com/ShohrabSakin/Automobiles-Industry-with-WordPress/assets/162773557/292fabca-1808-42db-a6d7-b7ed54d64926)
+
+![Car Insurance ](https://github.com/ShohrabSakin/Automobiles-Industry-with-WordPress/assets/162773557/234c0160-391f-4219-ad68-70b2f94750cd)
+
+![Car Showroom](https://github.com/ShohrabSakin/Automobiles-Industry-with-WordPress/assets/162773557/af1317a4-b7e5-4031-b499-9e6d41433016)
+
+![Rent A car](https://github.com/ShohrabSakin/Automobiles-Industry-with-WordPress/assets/162773557/0f05a072-dda4-478d-8d99-5d40b2150037)
+
+![About Us](https://github.com/ShohrabSakin/Automobiles-Industry-with-WordPress/assets/162773557/ce98a2e0-4e2d-43bd-bbea-dbeb10860072)
+
+
 
   ## How to run the project
     1. Download the zip file.
