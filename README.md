@@ -28,7 +28,7 @@ In this project I tried to develop the theme for automobiles industry. The Theme
 
 ![Car Showroom](https://github.com/ShohrabSakin/Automobiles-Industry-with-WordPress/assets/162773557/af1317a4-b7e5-4031-b499-9e6d41433016)
 
-### Car Showroom
+### Car Showroom Locations
 
 ![Rent A car](https://github.com/ShohrabSakin/Automobiles-Industry-with-WordPress/assets/162773557/0f05a072-dda4-478d-8d99-5d40b2150037)
 
